@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Kadir 
+#### Codelerner
+![Codelerner](https://cdn1.vectorstock.com/i/thumb-large/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg)
 
-<!--
-**yildirimkadir/yildirimkadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kadir from Turkey. I'm currently attending a Coding Bootcamp and interested in Development. I really enjoy learning languages and frameworks. 
 
-Here are some ideas to get you started:
+Skills: Python || Django || Javascript || React.js || Html || Css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.linkedin.com/in/kadir-yildirim-87b458230/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
