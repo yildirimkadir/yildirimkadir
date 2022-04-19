@@ -3,6 +3,7 @@
 ![Codelerner](https://cdn1.vectorstock.com/i/thumb-large/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg)
 
 I'm Kadir, live in Dortmund. I'm currently attending a Coding Bootcamp and interested in Development. I really enjoy learning languages and frameworks. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yildirimkadir" alt="visitor counter" width="10%"/> </p>
 
 Skills: Python || Django || Javascript || React.js || Html || Css
 
