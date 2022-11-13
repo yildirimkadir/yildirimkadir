@@ -5,7 +5,7 @@
 I'm Kadir, live in Dortmund. I'm currently attending a Coding Bootcamp and interested in Development. I really enjoy learning languages and frameworks. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yildirimkadir" alt="visitor counter" width="15%"/> </p>
 
-Skills: Python || Django || Javascript || React.js || Html || Css
+Skills: Python || Django || JavaScript || React.js || Html || Css
 
 
 
